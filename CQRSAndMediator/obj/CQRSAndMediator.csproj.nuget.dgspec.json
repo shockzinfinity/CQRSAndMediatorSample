@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macintosh/Downloads/CQRSAndMediator/CQRSAndMediator/CQRSAndMediator.csproj": {}
+    "C:\\00.ALM\\CQRSAndMediatorSample\\CQRSAndMediator\\CQRSAndMediator.csproj": {}
   },
   "projects": {
-    "/Users/macintosh/Downloads/CQRSAndMediator/CQRSAndMediator/CQRSAndMediator.csproj": {
+    "C:\\00.ALM\\CQRSAndMediatorSample\\CQRSAndMediator\\CQRSAndMediator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macintosh/Downloads/CQRSAndMediator/CQRSAndMediator/CQRSAndMediator.csproj",
+        "projectUniqueName": "C:\\00.ALM\\CQRSAndMediatorSample\\CQRSAndMediator\\CQRSAndMediator.csproj",
         "projectName": "CQRSAndMediator",
-        "projectPath": "/Users/macintosh/Downloads/CQRSAndMediator/CQRSAndMediator/CQRSAndMediator.csproj",
-        "packagesPath": "/Users/macintosh/.nuget/packages/",
-        "outputPath": "/Users/macintosh/Downloads/CQRSAndMediator/CQRSAndMediator/obj/",
+        "projectPath": "C:\\00.ALM\\CQRSAndMediatorSample\\CQRSAndMediator\\CQRSAndMediator.csproj",
+        "packagesPath": "C:\\Users\\maddr\\.nuget\\packages\\",
+        "outputPath": "C:\\00.ALM\\CQRSAndMediatorSample\\CQRSAndMediator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/macintosh/.config/NuGet/NuGet.Config"
+          "C:\\Users\\maddr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,7 +78,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
